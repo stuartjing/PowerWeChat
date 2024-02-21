@@ -5,6 +5,7 @@ type RequestAccountServiceSendMsg struct {
 	OpenKfid    string                               `json:"open_kfid"`
 	MsgID       string                               `json:"msgid,omitempty"`
 	MsgType     string                               `json:"msgtype,omitempty"`
+	Video       *RequestAccountServiceMsgVideo       `json:"video,omitempty"`
 	Text        *RequestAccountServiceMsgText        `json:"text,omitempty"`
 	Image       *RequestAccountServiceMsgImage       `json:"image,omitempty"`
 	Voice       *RequestAccountServiceMsgVoice       `json:"voice,omitempty"`
@@ -20,6 +21,10 @@ type RequestAccountServiceMsgText struct {
 }
 
 type RequestAccountServiceMsgImage struct {
+	MediaID string `json:"media_id"`
+}
+
+type RequestAccountServiceMsgVideo struct {
 	MediaID string `json:"media_id"`
 }
 
