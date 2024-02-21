@@ -3,10 +3,10 @@ package immediateDelivery
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/immediateDelivery/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel/power"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel/response"
+	response2 "github.com/stuartjing/PowerWeChat/v3/src/miniProgram/immediateDelivery/response"
 )
 
 type Client struct {

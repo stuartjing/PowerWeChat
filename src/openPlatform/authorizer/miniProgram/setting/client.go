@@ -2,9 +2,9 @@ package setting
 
 import (
 	"context"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openPlatform/authorizer/miniProgram/setting/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openPlatform/authorizer/miniProgram/setting/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/openPlatform/authorizer/miniProgram/setting/request"
+	"github.com/stuartjing/PowerWeChat/v3/src/openPlatform/authorizer/miniProgram/setting/response"
 )
 
 type Client struct {

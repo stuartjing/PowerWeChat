@@ -1,8 +1,8 @@
 package response
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/officialAccount/goods/request"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/officialAccount/goods/request"
 )
 
 type ResponseProductAdd struct {

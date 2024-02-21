@@ -3,7 +3,7 @@ package server
 import (
 	"bytes"
 	logger2 "github.com/ArtisanCloud/PowerLibs/v3/logger"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
 	"io/ioutil"
 	"net/http"
 )

@@ -3,9 +3,9 @@ package auth
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openPlatform/auth"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/miniProgram/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/openPlatform/auth"
+	"github.com/stuartjing/PowerWeChat/v3/src/work/miniProgram/response"
 )
 
 type Client struct {

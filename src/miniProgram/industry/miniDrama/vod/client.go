@@ -3,10 +3,10 @@ package vod
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/industry/miniDrama/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/industry/miniDrama/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel/power"
+	"github.com/stuartjing/PowerWeChat/v3/src/miniProgram/industry/miniDrama/request"
+	"github.com/stuartjing/PowerWeChat/v3/src/miniProgram/industry/miniDrama/response"
 )
 
 type Client struct {

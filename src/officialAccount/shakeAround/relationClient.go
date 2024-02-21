@@ -3,9 +3,9 @@ package shakeAround
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/officialAccount/shakeAround/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/officialAccount/shakeAround/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/officialAccount/shakeAround/request"
+	"github.com/stuartjing/PowerWeChat/v3/src/officialAccount/shakeAround/response"
 )
 
 type RelationClient struct {

@@ -12,7 +12,7 @@ import (
 	"encoding/xml"
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/support"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel/support"
 	"math/rand"
 	"sort"
 	"strings"

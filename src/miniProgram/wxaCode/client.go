@@ -3,9 +3,9 @@ package wxaCode
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power"
-	response4 "github.com/ArtisanCloud/PowerWeChat/v3/src/work/media/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel/power"
+	response4 "github.com/stuartjing/PowerWeChat/v3/src/work/media/response"
 	"io/fs"
 	"io/ioutil"
 	"net/http"

@@ -3,9 +3,9 @@ package device
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/officialAccount/device/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/officialAccount/device/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/officialAccount/device/request"
+	"github.com/stuartjing/PowerWeChat/v3/src/officialAccount/device/response"
 )
 
 type Client struct {

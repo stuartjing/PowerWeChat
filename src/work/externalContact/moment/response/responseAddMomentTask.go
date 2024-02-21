@@ -1,6 +1,6 @@
 package response
 
-import "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
+import "github.com/stuartjing/PowerWeChat/v3/src/kernel/response"
 
 type InvalidSenderList struct {
 	UserList       []string `json:"user_list"`

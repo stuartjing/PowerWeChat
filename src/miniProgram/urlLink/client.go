@@ -2,9 +2,9 @@ package urlLink
 
 import (
 	"context"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/urlLink/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/urlLink/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/miniProgram/urlLink/request"
+	"github.com/stuartjing/PowerWeChat/v3/src/miniProgram/urlLink/response"
 )
 
 type Client struct {

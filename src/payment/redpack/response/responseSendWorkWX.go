@@ -2,7 +2,7 @@ package response
 
 import (
 	"encoding/xml"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel/response"
 )
 
 type ResponseSendWorkWX struct {

@@ -3,11 +3,11 @@ package appChat
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/message/appChat/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/message/appChat/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel/power"
+	response2 "github.com/stuartjing/PowerWeChat/v3/src/kernel/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/work/message/appChat/request"
+	"github.com/stuartjing/PowerWeChat/v3/src/work/message/appChat/response"
 )
 
 type Client struct {

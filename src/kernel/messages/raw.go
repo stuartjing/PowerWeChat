@@ -3,7 +3,7 @@ package messages
 import (
 	"encoding/json"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel/power"
 )
 
 type Raw struct {

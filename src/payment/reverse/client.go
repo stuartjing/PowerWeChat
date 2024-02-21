@@ -3,8 +3,8 @@ package reverse
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	payment "github.com/ArtisanCloud/PowerWeChat/v3/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment/reverse/response"
+	payment "github.com/stuartjing/PowerWeChat/v3/src/payment/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/payment/reverse/response"
 	"net/http"
 )
 

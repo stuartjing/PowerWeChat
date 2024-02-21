@@ -1,8 +1,8 @@
 package provider
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	suite "github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/suitAuth"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	suite "github.com/stuartjing/PowerWeChat/v3/src/openWork/suitAuth"
 )
 
 type Client struct {

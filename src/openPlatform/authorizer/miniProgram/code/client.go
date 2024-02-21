@@ -3,10 +3,10 @@ package code
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openPlatform/authorizer/miniProgram/code/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openPlatform/authorizer/miniProgram/code/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	response2 "github.com/stuartjing/PowerWeChat/v3/src/kernel/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/openPlatform/authorizer/miniProgram/code/request"
+	"github.com/stuartjing/PowerWeChat/v3/src/openPlatform/authorizer/miniProgram/code/response"
 	"net/http"
 )
 

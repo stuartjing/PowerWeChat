@@ -1,6 +1,6 @@
 package school
 
-import "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
+import "github.com/stuartjing/PowerWeChat/v3/src/kernel"
 
 type Client struct {
 	BaseClient *kernel.BaseClient

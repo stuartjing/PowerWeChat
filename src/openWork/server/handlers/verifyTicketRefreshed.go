@@ -1,10 +1,10 @@
 package handlers
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/contract"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openPlatform/auth"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openPlatform/response"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel/contract"
+	"github.com/stuartjing/PowerWeChat/v3/src/openPlatform/auth"
+	"github.com/stuartjing/PowerWeChat/v3/src/openPlatform/response"
 	"net/http"
 )
 

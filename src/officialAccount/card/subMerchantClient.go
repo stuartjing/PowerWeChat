@@ -1,7 +1,7 @@
 package card
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/kernel"
 )
 
 type SubMerchantClient struct {

@@ -2,8 +2,8 @@ package notify
 
 import (
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment/notify/request"
+	"github.com/stuartjing/PowerWeChat/v3/src/payment/kernel"
+	"github.com/stuartjing/PowerWeChat/v3/src/payment/notify/request"
 	"net/http"
 	"reflect"
 )
